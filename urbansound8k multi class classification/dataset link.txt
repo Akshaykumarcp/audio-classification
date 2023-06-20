@@ -1,0 +1,6 @@
+dataset: https://www.kaggle.com/datasets/chrisfilo/urbansound8k?resource=download
+
+NOTE:
+- place all the audio files under directory: "dataset/audio"
+
+About dataset: https://urbansounddataset.weebly.com/urbansound8k.html
